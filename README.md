@@ -1,7 +1,7 @@
 # Luan-Shima-Blender4.2-
 Reknowned voice narrator in depth
 
-Also found @ blendswap and cgTrader!
+Also found @ blendswap (https://blendswap.com/blend/31623) and cgTrader (https://www.cgtrader.com/products/luan-s)!
 
 Blender4.2, WIP grade and fbx zipped, rigged w/ Blender rigify4.
 
