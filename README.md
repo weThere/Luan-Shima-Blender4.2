@@ -19,6 +19,6 @@ This is an extremely free/pastime tier rigging job and all model credit goes to 
 
 - The model is SFW, except for generally overblown body shapes.
 
-- Enjoy, dislike or improve further!
+Enjoy, dislike or improve further!
 
 ![shim_greet_ref](https://github.com/user-attachments/assets/9fe890f9-e64c-4b49-a4db-b1ad083c0c34)
