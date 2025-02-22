@@ -1,4 +1,4 @@
-# Luan-Shima-Blender4.2-
+# Luan Shima
 Reknowned voice narrator in depth
 
 Also found @ blendswap (https://blendswap.com/blend/31623) and cgTrader (https://www.cgtrader.com/products/luan-s)!
